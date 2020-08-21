@@ -1,0 +1,24 @@
+{
+  "ads": {
+    "id_app": "",
+    "banner_setting": "ca-app-pub-3399710561924220/1730164939",
+    "inter_setting": "ca-app-pub-3399710561924220/4063672479",
+    "banner_main": "ca-app-pub-3399710561924220/9403930383",
+    "inter_main": "ca-app-pub-3399710561924220/4063672479",
+    "onlyAdmod": true,
+    "onlyFB": false
+  }, 
+  "app_exists": {
+    "id": "com.BTS.BTSMessenger3",
+    "is_exists": true,
+    "is_show_more": true
+  },
+  "apps": [
+    {
+      "id": "com.new.siren.head.photo.editor.linh",
+      "icon": "https://lh3.googleusercontent.com/M9-JN7mrP8gNPdYBLp0BE4x5DEwoiU8WSRuAsZguddFGWkow-r5LSK7ghOGhXZUsNg=s360",
+      "name": "Siren Head Camera Photo Editor",
+      "des": "Hello siren head camera effects fans. Siren head photo editor is our new free app that provides creepy siren head effects for your photos."
+    }
+  ]
+}
